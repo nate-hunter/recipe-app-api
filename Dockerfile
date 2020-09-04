@@ -1,5 +1,4 @@
 FROM python:3.7-alpine
-# MAINTAINER UrbanSea Solutions
 LABEL maintainer="UrbanSea Solutions"
 
 ENV PYTHONUNBUFFERED 1
